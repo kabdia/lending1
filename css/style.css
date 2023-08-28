@@ -442,7 +442,8 @@ margin-bottom: 55px;
 
 
 .partners {
-    padding-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 40px;
     border-bottom: 80px;
     background-color: var(--dark-color);
 
